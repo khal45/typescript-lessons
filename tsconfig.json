@@ -1,0 +1,8 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "module": "es6",
+    "target": "ES2015",
+    "types": ["node"]
+  }
+}
